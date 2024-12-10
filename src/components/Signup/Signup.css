@@ -1,0 +1,130 @@
+.img-src {
+    background-position: 0px -52px;
+    background-size: auto;
+    width: 175px;
+    height: 51px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    position: relative;
+    left: 60px;
+}
+
+
+    
+
+.password-css {
+    margin-top: 10px;
+}
+
+.text-css1 {
+    margin-top: 10px
+}
+
+.text-css2 {
+    margin-top: 10px
+}
+
+.container-css {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-top: 30px;
+    border:1px solid;
+    margin-top:10px;
+    width: 50vh;
+    height: 70vh;
+    position: relative;
+    right: 50px;
+}
+
+.button-css{
+    margin-left: 40px;
+    color: white;
+    background-color: skyblue;
+    align-items: center;
+    border-radius: 10px;
+    width: 40vh;
+    position: relative;
+    border:0px;
+    right:30px;
+    font-weight: 700;
+}
+
+.card {
+    margin-bottom: 10px;
+}
+
+
+.p-css{
+    font-size: 16px;
+    text-align: center;
+    font-weight: 600px
+}
+/* .container-css2{
+    border: 1px solid;
+    width: 50vh;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+   
+    
+} */
+.button-css1{
+    /* border: 0cap; */
+    background-color: white;
+    color: skyblue;
+}
+.img-css{
+    height: 16px;
+    width:16px;
+    border-radius: 0px;
+}
+.fbbutton-css{
+    border:0cap;
+    background-color: white;
+    color: #385185;
+    font-weight: 700;
+    
+}
+.forgotbutton-css{
+    border: 0;
+    background-color: white;
+    color: #00376B;
+    padding-top: 20px;
+
+}
+.login-css{
+    text-align: center;
+    padding-top: 20px;
+}
+/* .button1-css{
+    padding-top: 20px;
+} */
+.seperator{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+    column-gap: 16px;
+    }
+.seperator span:nth-child(1),
+.seperator span:nth-child(3){
+    width: 100%;
+    height: 2px ;
+    background-color: black;
+    display: block;
+}
+.display-css{
+    position: relative;
+    left: 400px;
+    top: 200px;
+}
+.body-css{
+    border: 100px;
+}
+.container-fullbody{
+    border-radius: 20px;
+}
+

@@ -1,0 +1,111 @@
+.img-src {
+    background-position: 0px -52px;
+    background-size: auto;
+    width: 175px;
+    height: 51px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    position: relative;
+    left: 60px;
+}
+
+body {
+    position: relative;
+    left: 450px;
+    top:20px;
+    
+    
+}
+
+.password-css {
+    margin-top: 10px;
+}
+
+.text-css1 {
+    margin-top: 10px
+}
+
+.text-css2 {
+    margin-top: 10px
+}
+
+
+
+.button-css{
+    /* margin-left: 50px; */
+    color: white;
+    background-color: red;
+    /* align-items: center; */
+    border-radius: 10px;
+    /* width: 40vh; */
+     position: relative;
+     right: 80px;
+    /* border:0px;
+    right:60px;  */
+    font-weight: 700;
+}
+
+.card {
+    margin-bottom: 10px;
+}
+
+.p-css{
+    font-size: 16px;
+    text-align: center;
+    font-weight: 600px
+}
+
+.button-css1{
+    border: 0cap;
+    background-color: white;
+    color: skyblue;
+}
+.img-css{
+    height: 16px;
+    width:16px;
+    border-radius: 0px;
+}
+.fbbutton-css{
+    border:0cap;
+    background-color: white;
+    color: #385185;
+    font-weight: 700;
+    
+}
+.forgotbutton-css{
+    border: 0;
+    background-color: white;
+    color: #00376B;
+    padding-top: 20px;
+
+}
+.login-css{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 20px;
+}
+.button1-css{
+    padding-top: 20px;
+}
+.seperator{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+    column-gap: 16px;
+    }
+.seperator span:nth-child(1),
+.seperator span:nth-child(3){
+    width: 100%;
+    height: 2px ;
+    background-color: black;
+    display: block;
+}
+/* .fb-css{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    text-align: center;
+} */
+
